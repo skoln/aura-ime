@@ -1,8 +1,8 @@
-# Vela IME
+# Aura-ime（光环输入法）
 
 > 接话 · 润色 · 本地优先
 
-Vela IME 是一款 AI 驱动的智能输入法，专注于帮你更好地表达。
+aura-ime 是一款 AI 驱动的智能输入法，专注于帮你更好地表达。
 
 它不替你做决定，而是在你需要的时候，给出更合适的说法。
 
@@ -21,7 +21,7 @@ Vela IME 是一款 AI 驱动的智能输入法，专注于帮你更好地表达�
 所有正式版本的 APK 安装包均通过以下渠道发布：
 
 - GitHub Releases（推荐）  
-  https://github.com/skoln/vela-ime/releases
+  https://github.com/skoln/aura-ime/releases
 
 - 国内下载站（备用加速）  
   https://www.xxx.xx/xxx/xxx
@@ -35,7 +35,7 @@ Vela IME 是一款 AI 驱动的智能输入法，专注于帮你更好地表达�
 
 ## 混合推理策略
 
-Vela IME 采用本地优先、云端可选的双轨架构：
+aura-ime 采用本地优先、云端可选的双轨架构：
 
 | 场景 | 使用方式 | 说明 |
 |------|----------|------|
@@ -69,8 +69,5 @@ Apache License 2.0
 
 如有问题或建议，欢迎通过以下方式联系：
 
-- 邮箱（优先）：mixiri2272607956@qq.com
-- 备用邮箱：lloydtrapp1582001cww@gmail.com
-- GitHub Issues：https://github.com/skoln/vela-ime/issues
-
+- 邮箱（优先）：
 反馈时请尽量附上截图或日志，方便更快定位问题。
