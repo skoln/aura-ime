@@ -64,7 +64,7 @@ Apache License 2.0
 
 ## 参与贡献
 
-欢迎提交 Issue 与 Pull Request，一起打造真正实用的智能输入法。
+欢迎提交 Issue ，一起打造真正实用的智能输入法。
 
 
 ## 联系与反馈
