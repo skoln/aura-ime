@@ -1,4 +1,4 @@
-# Aura-IME（光环输入法）
+# Aura IME（光环输入法）
 
 > AI 赋能的智能输入工具 · 聊天接话 · 文字润色 · 本地优先
 
@@ -84,7 +84,7 @@
 - QQ邮箱：skoln@qq.com
 - 谷歌邮箱：lloydtrapp1582001cww@gmail.com
 - GitHub：https://github.com/skoln
-- QQ群聊：1094385995
+- QQ群聊：[1094385995](https://qm.qq.com/q/KneAthU0MM)
 - 抖音：https://v.douyin.com/U9Q_FH_YDSg
 - 酷安：https://coolapk.com/u/43558166
 - 哔哩哔哩：https://b23.tv/7OQEd0h
