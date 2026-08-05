@@ -81,8 +81,8 @@
 ##联系与社区
 
 - 官网：skoln.xyz
-- QQ邮箱：https://skoln@qq.com
-- 谷歌邮箱：https://lloydtrapp1582001cww@gmail.com
+- QQ邮箱：skoln@qq.com
+- 谷歌邮箱：lloydtrapp1582001cww@gmail.com
 - GitHub：https://github.com/skoln
 - QQ群聊：1094385995
 - 抖音：https://v.douyin.com/U9Q_FH_YDSg
