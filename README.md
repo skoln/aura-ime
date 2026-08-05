@@ -76,7 +76,6 @@
 - [GitHub](https://github.com/skoln)
 - [QQ群聊](https://qm.qq.com/q/KneAthU0MM)
 - [抖音](https://v.douyin.com/U9Q_FH_YDSg)
-- [酷安](https://coolapk.com/u/43558166)
 - [哔哩哔哩](https://b23.tv/7OQEd0h)
 
 > 欢迎关注、反馈和参与，一起塑造更智能的输入体验！
