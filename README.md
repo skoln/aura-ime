@@ -81,12 +81,12 @@
 ##联系与社区
 
 - 官网：skoln.xyz
-- QQ邮箱：skoln@qq.com
-- 谷歌邮箱：lloydtrapp1582001cww@gmail.com
-- GitHub：github.com/skoln
-- QQ群聊：1094385995（群号：1094385995）
-- 抖音：v.douyin.com/U9Q_FH_YDSg
-- 酷安：coolapk.com/u/43558166
+- QQ邮箱：https://skoln@qq.com
+- 谷歌邮箱：https://lloydtrapp1582001cww@gmail.com
+- GitHub：https://github.com/skoln
+- QQ群聊：1094385995
+- 抖音：https://v.douyin.com/U9Q_FH_YDSg
+- 酷安：https://coolapk.com/u/43558166
 - 哔哩哔哩：https://b23.tv/7OQEd0h
 
 > 欢迎关注、反馈和参与，一起塑造更智能的输入体验！
