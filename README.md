@@ -2,7 +2,7 @@
 
 > AI 赋能的智能输入工具 · 聊天接话 · 文字润色 · 本地优先
 
-**官网**：[skoln.xyz](https://skoln.xyz)
+[官网](https://skoln.xyz)
 
 ---
 
